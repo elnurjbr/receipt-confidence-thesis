@@ -1,0 +1,5 @@
+,receipts,STP_rate,silent_error_rate (wrong approvals / all),approval_error_rate (wrong approvals / approved),correct_receipts_sent_to_review,API_calls,measured_API_cost_EUR,assumed_review_cost_EUR,assumed_error_cost_EUR (total-field cost per wrong approval)
+S0,40.0,1.0,0.225,0.225,0.0,80.0,0.0424,0.0,180.0
+S1,40.0,0.875,0.125,0.143,1.0,80.0,0.0424,2.0,100.0
+S2,40.0,0.175,0.0,0.0,24.0,80.0,0.0424,13.2,0.0
+S3,40.0,0.175,0.0,0.0,14.0,113.0,0.074,13.2,0.0
